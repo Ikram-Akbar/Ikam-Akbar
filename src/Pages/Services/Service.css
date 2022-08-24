@@ -1,0 +1,39 @@
+.service-info {
+
+    border: 1px solid green;
+    border-radius: 15px;
+    margin: 40px 0;
+    padding: 15px;
+}
+
+.service-info:hover {
+
+    border: 2px solid rgb(8, 8, 8);
+    border-radius: 5px;
+    margin: 20px 0;
+    padding: 37px;
+    transition: 0.5s all ease-in-out;
+}
+
+.service {
+    text-transform: uppercase;
+    margin: 20px;
+    display: inline-block;
+    border-bottom: 1px solid black;
+}
+
+.service-icon {}
+
+.service-info img {
+    width: 15%;
+}
+
+
+.service-text {}
+
+.service-text h4 {
+    text-transform: uppercase;
+    margin-top: 15px;
+}
+
+.service-text p {}
