@@ -1,0 +1,28 @@
+/* skill css start  */
+.skill-header {
+    color: #fff;
+    border-bottom: 1px solid white;
+    margin: 30px 0;
+    display: inline-block;
+}
+
+.skill-container-fluid {
+    margin-top: 10px;
+    min-height: 50vh;
+    background-color: rgb(10, 10, 10);
+}
+
+.skill-info {}
+
+.skill-info h4 {
+    margin-top: 15px;
+    margin-right: 37px;
+    color: #a1f68a;
+    padding: 3px;
+    display: inline-block;
+    border-radius: 6%;
+}
+
+.progress-bar-percent {
+    color: #fff;
+}
