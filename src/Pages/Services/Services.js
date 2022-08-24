@@ -43,7 +43,7 @@ const Services = () => {
                                         <img className='img-fluid' src={icon1} alt="web design"/>
                                     </div>
                                     <div className='service-text'>
-                                        <h4>Mob App Development </h4>
+                                        <h4> App Development </h4>
                                         <p>Wee provide a design with source code</p>
                                     </div>
 

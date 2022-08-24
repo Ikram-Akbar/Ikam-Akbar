@@ -1,19 +1,21 @@
 .service-info {
-
-    border: 1px solid green;
+    box-shadow: -1px 0px 3px 0px rgb(0 0 0 / 50%);
+    border: none;
     border-radius: 15px;
     margin: 40px 0;
     padding: 15px;
 }
 
-.service-info:hover {
-
-    border: 2px solid rgb(8, 8, 8);
+/* .service-info:hover {
+-webkit-box-shadow: -4px 7px 25px -12px rgba(0, 0, 0, 0.5);
+    -moz-box-shadow: -4px 7px 25px -12px rgba(0, 0, 0, 0.5);
+    box-shadow: -4px 7px 25px -12px rgba(0, 0, 0, 0.5);
+  border: none;
     border-radius: 5px;
     margin: 20px 0;
     padding: 37px;
     transition: 0.5s all ease-in-out;
-}
+} */
 
 .service {
     text-transform: uppercase;
