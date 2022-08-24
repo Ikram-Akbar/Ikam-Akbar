@@ -1,0 +1,17 @@
+/* header css only */
+
+.custom-header {
+    font-weight: 500;
+    color: #bfd6d3;
+    font-size: x-large;
+}
+.custom-header:hover{
+    color: white;
+}
+
+.custom-nav  {
+color: #bfd6d3;
+}
+.custom-nav:hover  {
+color: #bfd6d3;
+}
