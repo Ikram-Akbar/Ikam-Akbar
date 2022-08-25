@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Car Zone",
+    "description": "This is a Full Stack project.",
+    "technology": ["React Js", "Node Js", "MongoDB", "Firebase"]
+  },
+  {
+    "name": "Tour & Travel",
+    "description": "This is a Full Stack (M E R N) project.",
+    "technology": ["React Js", "Node Js", "MongoDB", "Firebase"]
+  },
+  {
+    "name": "Akbar Store",
+    "description": "This is a JavaScript functional project with Shopping cart system",
+    "technology": ["HTML 5", "CSS 3", "JavaScript"]
+  },
+  {
+    "name": "Panda Commerce",
+    "description": "This is a PSD to HTML conversion project.",
+    "technology": ["HTML 5, CSS 3", "Bootstrap 5"]
+  },
+  {
+    "name": "Honda CRB",
+    "description": "This is a Figma to HTML conversion project.",
+    "technology": ["HTML 5, CSS 3", "Bootstrap 5"]
+  },
+  {
+    "name": "Lucid",
+    "description": "This is a PSD to HTML conversion project.",
+    "technology": ["HTML 5, CSS 3", "Bootstrap 5"]
+  }
+]

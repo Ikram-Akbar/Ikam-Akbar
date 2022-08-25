@@ -1,0 +1,24 @@
+.project {
+    padding: 20px;
+   
+}
+
+
+.project h1 {
+    display: inline-block;
+    margin: 20px 0;
+    border-bottom: 2px solid black;
+}
+
+.custom-card-info {}
+
+.custom-card-info p {
+    background: blue;
+    border-radius: 16px;
+    margin: 2px 10px;
+    padding: 0px 14px;
+    display: inline-block;
+    color: snow;
+}
+
+.custom-img {}

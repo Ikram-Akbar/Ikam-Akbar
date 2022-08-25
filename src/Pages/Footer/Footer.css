@@ -1,0 +1,11 @@
+.custom-footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.custom-footer-icon {
+    width: 50px;
+    margin-right: 10px;
+
+}

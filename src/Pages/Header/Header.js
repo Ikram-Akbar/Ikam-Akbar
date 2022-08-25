@@ -3,13 +3,13 @@ import "../Header/Header.css";
 import { Nav } from "react-bootstrap";
 import Container from "react-bootstrap/Container";
 import Navbar from "react-bootstrap/Navbar";
-
+import NavDropdown from "react-bootstrap/NavDropdown";
 
 const Header = () => {
   return (
     <div>
       <div>
-        <Navbar bg="dark" variant="dark" expand="lg">
+        <Navbar fixed="top" bg="dark" variant="dark" expand="lg">
           <Container>
             <Navbar.Brand className="custom-header" href="#home">
               IKRAM AKBAR
